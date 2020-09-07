@@ -3,6 +3,9 @@
 <!--
 **uttusharma/uttusharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttusharma)](https://github.com/GodBishtji/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +19,3 @@ Here are some ideas to get you started:
 -->
 ### Computer doesn’t make mistake because programmers do it better.
 ![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttusharma)](https://github.com/GodBishtji/github-readme-stats)
