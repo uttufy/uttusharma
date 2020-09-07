@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### "Computer doesn’t make mistake because programmers do it better."
+### Computer doesn’t make mistake because programmers do it better.
 ![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
