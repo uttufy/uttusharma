@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### All bugs are just undocumented features
+### "All bugs are just undocumented features."
 ![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
