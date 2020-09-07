@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **uttusharma/uttusharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
