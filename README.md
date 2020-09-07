@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Computer doesn’t make mistake because programmers do it better.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttusharma)](https://github.com/GodBishtji/github-readme-stats)
 ![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttusharma)](https://github.com/GodBishtji/github-readme-stats)
