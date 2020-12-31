@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+<img  src="https://github-readme-stats.vercel.app/api?username=uttusharma&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
+
