@@ -31,6 +31,7 @@ Hi, I'm Utkarsh Sharma, a passionate self-taught mobile app developer from India
 <code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/cpp.png"></code>
 <code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/py.png"></code>
 <code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/flutter.png"></code>
+<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/android.png"></code>
 <code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/gcloud.png"></code>    
 <code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/firebase.png"></code>    
 
