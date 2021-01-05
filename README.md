@@ -26,5 +26,13 @@ Hi, I'm Utkarsh Sharma, a passionate self-taught mobile app developer from India
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything [here](https://github.com/uttusharma/uttusharma/issues)
 
+**Language/Tools:**
+<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/dart.png"></code>
+<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/cpp.png"></code>
+<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/py.png"></code>
+<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/flutter.png"></code>
+<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/gcloud.png"></code>    
+<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/firebase.png"></code>    
+
 
 <img  src="https://github-readme-stats.vercel.app/api?username=uttusharma&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for uttusharma">
