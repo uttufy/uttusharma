@@ -27,7 +27,7 @@ Hi, I'm Utkarsh Sharma, a passionate self-taught mobile app developer from India
 - 💬 Ask me about anything [here](https://github.com/uttusharma/uttusharma/issues)
 
 **Language/Tools:**
-<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/dart.png"></code>
+<code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/dart_ico.png"></code>
 <code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/cpp.png"></code>
 <code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/py.png"></code>
 <code><img height="20" src="https://github.com/uttusharma/uttusharma/raw/master/assets/images/flutter.png"></code>
