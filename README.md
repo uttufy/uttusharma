@@ -40,7 +40,7 @@ Hi, I'm Utkarsh Sharma, a passionate self-taught mobile app developer from India
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uttusharma&theme=radical" />
 </p>
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=uttusharma&theme=rogue" />
+
 
 <!-- <br>
 <img  src="https://github-readme-stats.vercel.app/api?username=uttusharma&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for uttusharma">
