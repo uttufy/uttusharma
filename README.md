@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-Hi, I'm Utkarsh Sharma, a passionate self-taught mobile app developer from India.
+Hi, I'm Utkarsh Sharma.
 
-- 🔭 I’m currently pursuing B.Tech from [IPEC](https://www.ipec.org.in/)
-- 🌱 I’m currently learning Python
 - 💬 Ask me about anything [here](https://github.com/uttusharma/uttusharma/issues)
 
 **Language/Tools:** <br><br>
